@@ -1,0 +1,31 @@
+{
+  "name": "passport-stormpath",
+  "version": "1.0.0",
+  "description": "Authentication strategy for Stormpath",
+  "keywords": [
+    "passport",
+    "stormpath"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sleeplessinc/passport-stormpath.git"
+  },
+  "bugs": {
+    "url": "http://github.com/sleeplessinc/passport-stormpath/issues"
+  },
+  "author": {
+    "name": "Joe Hitchens",
+    "email": "joe@sleepless.com",
+    "url": "http://sleepless.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-strategy": "1.x.x"
+  }
+}
